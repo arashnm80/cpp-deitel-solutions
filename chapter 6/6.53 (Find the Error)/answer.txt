@@ -1,0 +1,8 @@
+a) looks ok, although is hasn't used the template
+
+b) void function should not return sth
+
+c) wrong template syntax
+
+d) Overloaded functions can have different return types, but if they do,
+they must also have different parameter lists

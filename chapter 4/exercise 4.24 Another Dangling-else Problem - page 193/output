@@ -1,0 +1,6 @@
+a)
+	x = 5; y = 15;		output = OoOoO
+	x = 15; y = 5;		output = XxXxX \n OoOoO
+b)
+	x = 5; y = 15;		output = YxYxY \n OoOoO
+	x = 15; y = 5;		output = XxXxX
